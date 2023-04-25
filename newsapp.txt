@@ -1,0 +1,2 @@
+Review the todaysbrief.pdf
+generate python code using Aylein.com news aggregator to duplicate the todaysbrief.pdf.
